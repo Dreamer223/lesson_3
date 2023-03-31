@@ -30,3 +30,6 @@
 2. **git status**
 3. **git add file_name или git add .**
 4. **git commit -m "message" или git commit -am "message"**
+
+Ссылка на гитхаб этого репозитория
+[Гитхаб]( https://github.com/Dreamer223/lesson_3.git "Репозиторий")
