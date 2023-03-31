@@ -25,3 +25,8 @@
 
 # Скрин конфликта
 ![Кофликт](Konflict.png)
+
+1. **git init**
+2. **git status**
+3. **git add file_name или git add .**
+4. **git commit -m "message" или git commit -am "message"**
